@@ -22,8 +22,8 @@ Esse projeto é uma aplicação interativa feita com [Streamlit](https://streaml
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/jp-bezerra/school.git
-cd school.git
+git clone https://github.com/Jp-Bezerra/school.git
+cd school
 ```
 
 2. Instale as dependências:
